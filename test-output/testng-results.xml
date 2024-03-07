@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-07T19:00:32 GST" name="Default suite" finished-at="2024-03-07T19:02:08 GST" duration-ms="96176">
+    <groups>
+    </groups>
+    <test started-at="2024-03-07T19:00:32 GST" name="Default test" finished-at="2024-03-07T19:02:08 GST" duration-ms="96176">
+      <class name="testsuite.TicketBookingMain">
+        <test-method is-config="true" signature="beforeExecution()[pri:0, instance:testsuite.TicketBookingMain@533bda92]" started-at="2024-03-07T19:00:32 GST" name="beforeExecution" finished-at="2024-03-07T19:00:32 GST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeExecution -->
+        <test-method signature="bookingTicketModule()[pri:0, instance:testsuite.TicketBookingMain@533bda92]" started-at="2024-03-07T19:00:32 GST" name="bookingTicketModule" finished-at="2024-03-07T19:02:08 GST" duration-ms="96006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookingTicketModule -->
+        <test-method is-config="true" signature="afterExecution()[pri:0, instance:testsuite.TicketBookingMain@533bda92]" started-at="2024-03-07T19:02:08 GST" name="afterExecution" finished-at="2024-03-07T19:02:08 GST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterExecution -->
+      </class> <!-- testsuite.TicketBookingMain -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
